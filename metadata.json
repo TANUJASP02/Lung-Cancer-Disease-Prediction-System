@@ -1,0 +1,5 @@
+{
+  "name": "OncoSight AI Laung cancer Disease Prediction System",
+  "description": "A professional-grade Cancer Disease Prediction System featuring offline CSV processing, interactive Power BI-style visualizations, and Gemini-powered predictive insights.",
+  "requestFramePermissions": []
+}
